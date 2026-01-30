@@ -54,6 +54,5 @@ With 15+ years deep in the Salesforce ecosystem and a CTA certification, I focus
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourname
-- Twitter: https://twitter.com/yourhandle
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/meghnath-goriparthi-133567a4/
+- Email: meghanadhwork32@gmail.com
